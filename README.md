@@ -138,6 +138,7 @@ Serial.print(humidity);
 ![image](https://github.com/user-attachments/assets/2472ecf3-2535-4f0d-bcaf-963cd991cd1e)
 
 # OUTPUT:
+![image](https://github.com/user-attachments/assets/44dafbb1-fc99-441f-b4bf-185e35fd00ef)
 
 # RESULT:
 
