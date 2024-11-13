@@ -87,11 +87,11 @@ float temperature = 0; // Initialize temperature
 WiFiClient client;
 DHT dht(23, DHT11);
 
-unsigned long myChannelField = 2709755; // Channel ID
+unsigned long myChannelField = 2729898; // Channel ID
 const int TemperatureField = 1;          // Field for temperature data
 const int HumidityField = 2;          // Field for humidity data
 
-const char* myWriteAPIKey = "5WBQHPE6ZVDIY8B3"; // Your write API Key
+const char* myWriteAPIKey = "3GOFMP6JS7YN87OV"; // Your write API Key
 
 // Temperature sensor setup
 void setup() {
