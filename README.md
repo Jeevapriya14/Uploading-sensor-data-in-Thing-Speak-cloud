@@ -143,6 +143,12 @@ Serial.print(humidity);
 # OUTPUT:
 ![image](https://github.com/user-attachments/assets/44dafbb1-fc99-441f-b4bf-185e35fd00ef)
 
+
+
+
+
+
+
 # RESULT:
 
 Thus the temperature sensor values are updated in the Thing speak using ESP32 controller.
