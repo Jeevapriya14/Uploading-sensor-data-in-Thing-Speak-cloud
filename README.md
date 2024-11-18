@@ -1,3 +1,5 @@
+# NAME: JEEVAPRIYA R
+# REG. NO. : 212222220018
 # Uploading temperature sensor data in Thing Speak cloud
 
 # AIM:
